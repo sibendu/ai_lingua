@@ -1,0 +1,259 @@
+{
+  "id": "french-mvp",
+  "language": "fr",
+  "title": "French MVP",
+  "description": "Beginner French practice for greetings, family, food, school, and simple sentences.",
+  "topics": ["greetings", "family", "food", "school", "simple_sentences"],
+  "items": [
+    {
+      "id": "fr-greetings-001",
+      "language": "fr",
+      "mode": "listen_repeat",
+      "topic": "greetings",
+      "difficulty": "beginner",
+      "text_fr": "Bonjour.",
+      "text_en": "Hello.",
+      "expected_keywords": ["bonjour"]
+    },
+    {
+      "id": "fr-greetings-002",
+      "language": "fr",
+      "mode": "listen_repeat",
+      "topic": "greetings",
+      "difficulty": "beginner",
+      "text_fr": "Salut.",
+      "text_en": "Hi.",
+      "expected_keywords": ["salut"]
+    },
+    {
+      "id": "fr-greetings-003",
+      "language": "fr",
+      "mode": "listen_repeat",
+      "topic": "greetings",
+      "difficulty": "beginner",
+      "text_fr": "Au revoir.",
+      "text_en": "Goodbye.",
+      "expected_keywords": ["au", "revoir"]
+    },
+    {
+      "id": "fr-greetings-004",
+      "language": "fr",
+      "mode": "listen_repeat",
+      "topic": "greetings",
+      "difficulty": "beginner",
+      "text_fr": "Comment ca va ?",
+      "text_en": "How are you?",
+      "expected_keywords": ["comment", "ca", "va"]
+    },
+    {
+      "id": "fr-greetings-005",
+      "language": "fr",
+      "mode": "listen_repeat",
+      "topic": "greetings",
+      "difficulty": "beginner",
+      "text_fr": "Je vais bien.",
+      "text_en": "I am well.",
+      "expected_keywords": ["je", "vais", "bien"]
+    },
+    {
+      "id": "fr-family-001",
+      "language": "fr",
+      "mode": "vocabulary",
+      "topic": "family",
+      "difficulty": "beginner",
+      "text_fr": "Maman.",
+      "text_en": "Mom.",
+      "expected_keywords": ["maman"]
+    },
+    {
+      "id": "fr-family-002",
+      "language": "fr",
+      "mode": "vocabulary",
+      "topic": "family",
+      "difficulty": "beginner",
+      "text_fr": "Papa.",
+      "text_en": "Dad.",
+      "expected_keywords": ["papa"]
+    },
+    {
+      "id": "fr-family-003",
+      "language": "fr",
+      "mode": "vocabulary",
+      "topic": "family",
+      "difficulty": "beginner",
+      "text_fr": "Ma soeur.",
+      "text_en": "My sister.",
+      "expected_keywords": ["ma", "soeur"]
+    },
+    {
+      "id": "fr-family-004",
+      "language": "fr",
+      "mode": "vocabulary",
+      "topic": "family",
+      "difficulty": "beginner",
+      "text_fr": "Mon frere.",
+      "text_en": "My brother.",
+      "expected_keywords": ["mon", "frere"]
+    },
+    {
+      "id": "fr-family-005",
+      "language": "fr",
+      "mode": "listen_repeat",
+      "topic": "family",
+      "difficulty": "beginner",
+      "text_fr": "J'aime ma famille.",
+      "text_en": "I love my family.",
+      "expected_keywords": ["j'aime", "ma", "famille"]
+    },
+    {
+      "id": "fr-food-001",
+      "language": "fr",
+      "mode": "vocabulary",
+      "topic": "food",
+      "difficulty": "beginner",
+      "text_fr": "Une pomme.",
+      "text_en": "An apple.",
+      "expected_keywords": ["une", "pomme"]
+    },
+    {
+      "id": "fr-food-002",
+      "language": "fr",
+      "mode": "vocabulary",
+      "topic": "food",
+      "difficulty": "beginner",
+      "text_fr": "Du pain.",
+      "text_en": "Some bread.",
+      "expected_keywords": ["du", "pain"]
+    },
+    {
+      "id": "fr-food-003",
+      "language": "fr",
+      "mode": "vocabulary",
+      "topic": "food",
+      "difficulty": "beginner",
+      "text_fr": "De l'eau.",
+      "text_en": "Some water.",
+      "expected_keywords": ["de", "l'eau"]
+    },
+    {
+      "id": "fr-food-004",
+      "language": "fr",
+      "mode": "vocabulary",
+      "topic": "food",
+      "difficulty": "beginner",
+      "text_fr": "Du lait.",
+      "text_en": "Some milk.",
+      "expected_keywords": ["du", "lait"]
+    },
+    {
+      "id": "fr-food-005",
+      "language": "fr",
+      "mode": "listen_repeat",
+      "topic": "food",
+      "difficulty": "beginner",
+      "text_fr": "Je mange une pomme.",
+      "text_en": "I eat an apple.",
+      "expected_keywords": ["je", "mange", "une", "pomme"]
+    },
+    {
+      "id": "fr-school-001",
+      "language": "fr",
+      "mode": "vocabulary",
+      "topic": "school",
+      "difficulty": "beginner",
+      "text_fr": "Un livre.",
+      "text_en": "A book.",
+      "expected_keywords": ["un", "livre"]
+    },
+    {
+      "id": "fr-school-002",
+      "language": "fr",
+      "mode": "vocabulary",
+      "topic": "school",
+      "difficulty": "beginner",
+      "text_fr": "Un stylo.",
+      "text_en": "A pen.",
+      "expected_keywords": ["un", "stylo"]
+    },
+    {
+      "id": "fr-school-003",
+      "language": "fr",
+      "mode": "vocabulary",
+      "topic": "school",
+      "difficulty": "beginner",
+      "text_fr": "L'ecole.",
+      "text_en": "School.",
+      "expected_keywords": ["l'ecole"]
+    },
+    {
+      "id": "fr-school-004",
+      "language": "fr",
+      "mode": "listen_repeat",
+      "topic": "school",
+      "difficulty": "beginner",
+      "text_fr": "J'ai un livre.",
+      "text_en": "I have a book.",
+      "expected_keywords": ["j'ai", "un", "livre"]
+    },
+    {
+      "id": "fr-school-005",
+      "language": "fr",
+      "mode": "listen_repeat",
+      "topic": "school",
+      "difficulty": "beginner",
+      "text_fr": "Je vais a l'ecole.",
+      "text_en": "I go to school.",
+      "expected_keywords": ["je", "vais", "a", "l'ecole"]
+    },
+    {
+      "id": "fr-simple-001",
+      "language": "fr",
+      "mode": "listen_repeat",
+      "topic": "simple_sentences",
+      "difficulty": "beginner",
+      "text_fr": "Je suis content.",
+      "text_en": "I am happy.",
+      "expected_keywords": ["je", "suis", "content"]
+    },
+    {
+      "id": "fr-simple-002",
+      "language": "fr",
+      "mode": "listen_repeat",
+      "topic": "simple_sentences",
+      "difficulty": "beginner",
+      "text_fr": "J'aime le chocolat.",
+      "text_en": "I like chocolate.",
+      "expected_keywords": ["j'aime", "le", "chocolat"]
+    },
+    {
+      "id": "fr-simple-003",
+      "language": "fr",
+      "mode": "listen_repeat",
+      "topic": "simple_sentences",
+      "difficulty": "beginner",
+      "text_fr": "Je veux de l'eau.",
+      "text_en": "I want water.",
+      "expected_keywords": ["je", "veux", "de", "l'eau"]
+    },
+    {
+      "id": "fr-simple-004",
+      "language": "fr",
+      "mode": "listen_repeat",
+      "topic": "simple_sentences",
+      "difficulty": "beginner",
+      "text_fr": "Ou est le livre ?",
+      "text_en": "Where is the book?",
+      "expected_keywords": ["ou", "est", "le", "livre"]
+    },
+    {
+      "id": "fr-simple-005",
+      "language": "fr",
+      "mode": "listen_repeat",
+      "topic": "simple_sentences",
+      "difficulty": "beginner",
+      "text_fr": "Merci beaucoup.",
+      "text_en": "Thank you very much.",
+      "expected_keywords": ["merci", "beaucoup"]
+    }
+  ]
+}

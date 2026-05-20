@@ -1,0 +1,26 @@
+[project]
+name = "ai-lingua-backend"
+version = "0.1.0"
+description = "FastAPI backend for the AI Lingua MVP."
+requires-python = ">=3.11"
+dependencies = [
+  "fastapi>=0.115.0",
+  "faster-whisper>=1.1.0",
+  "httpx>=0.28.0",
+  "pydantic-settings>=2.5.0",
+  "python-multipart>=0.0.20",
+  "sqlmodel>=0.0.22",
+  "uvicorn[standard]>=0.30.0"
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=8.3.0"
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
+
+[tool.setuptools.packages.find]
+include = ["app*"]
